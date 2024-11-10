@@ -116,3 +116,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 This `README.md` should guide users on how to install, configure, and use your virtual assistant! Adjust any project details or add any relevant commands based on updates you make.
+![REONA](https://github.com/user-attachments/assets/7534f796-5705-46fb-a0d0-668d643cbd20)
