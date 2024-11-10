@@ -52,17 +52,20 @@ pip install pyttsx3 speechrecognition pywhatkit wikipedia requests beautifulsoup
    git clone https://github.com/yourusername/Reona-Assistant.git
    cd Reona-Assistant
    ```
-
-2. [**Optional**] Configure your **Google Generative AI** API key in the code:
+2.Install The Dependencies:-
+   ```python
+      pip install -r requirements.txt
+   ``` 
+3. [**Optional**] Configure your **Google Generative AI** API key in the code:
    ```python
    genai.configure(api_key="YOUR_GOOGLE_API_KEY")
    ```
 
-3. Update `music_folder` and other file paths in the code to match your system settings.
+4. Update `music_folder` and other file paths in the code to match your system settings.
 
-4. Run the assistant:
+5. Run the assistant:
    ```bash
-   python main.py
+   python Reona.py
    ```
 
 ## Usage
