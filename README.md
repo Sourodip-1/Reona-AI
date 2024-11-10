@@ -12,6 +12,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+
+https://github.com/user-attachments/assets/b3315ddd-c8e0-4928-8103-ac08159d4cb6
+
+
+
 Here’s a sample `README.md` file that provides an overview of the project, explains installation, usage, and some key commands for your virtual assistant.
 
 ---
@@ -116,4 +121,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 This `README.md` should guide users on how to install, configure, and use your virtual assistant! Adjust any project details or add any relevant commands based on updates you make.
-![REONA](https://github.com/user-attachments/assets/7534f796-5705-46fb-a0d0-668d643cbd20)
+
+
+
+
+
+
+
