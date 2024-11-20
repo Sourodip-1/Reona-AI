@@ -1,0 +1,12 @@
+pyttsx3
+SpeechRecognition
+pywhatkit
+wikipedia-api
+requests
+beautifulsoup4
+pyautogui
+google-generativeai
+pynput
+pycaw
+pypiwin32
+comtypes
